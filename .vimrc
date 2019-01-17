@@ -1,7 +1,7 @@
 " Settings
-set nocompatible		" Use vim mode, turn off vi compatible mode.
+set nocompatible		" Use vim mode, turn off vi compatible mode
 filetype plugin indent on	" Turn on detection, plugin, and indent. See :help :filetype-overview
-set number			" Show line numbers.
+set number			" Show line numbers
 
 " Vim8 packages
 
